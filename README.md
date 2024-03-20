@@ -1,1 +1,1 @@
-# aws-ec2-conn-count
+Let's see how many connections we can get from t2.micro

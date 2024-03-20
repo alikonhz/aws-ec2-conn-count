@@ -1,0 +1,9 @@
+# GoLand files
+.idea
+
+# VS output
+bin/
+obj/
+
+# VS folder
+.vs/
